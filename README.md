@@ -1,1 +1,6 @@
-# Codetechinternship-Task1
+Name:K.Divya
+Company:CODETECH IT SOLUTIONS 
+ID:CT08WD39
+Domain:CYBER SECURITY AND ETHICAL HACKING
+Duration:December(2024) to January(2025)
+Mentor:SRAVANI GOUNI
