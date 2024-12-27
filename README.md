@@ -6,6 +6,8 @@ Duration:20th December(2024) to 4th February(2025)
 Mentor:Neela Santhosh Kumar
 
 Overview of the Project 
+![Screenshot (45)](https://github.com/user-attachments/assets/51789c42-15cc-4218-9f3b-26fc24d39b9a)
+![image](https://github.com/user-attachments/assets/795556aa-be7c-490a-aeaa-934833308628)
 
 Project:Password Strength Checker Project 
 
